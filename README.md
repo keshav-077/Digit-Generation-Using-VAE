@@ -24,12 +24,17 @@ Clone the repository and install dependencies:
 git clone https://github.com/keshav-077/Digit-Generation-Using-VAE
 cd Digit_Generation_VAE.ipynb
 pip install -r requirements.txt
+```
+
 
 # 📂 Project Structure
+
+---
 Digit_Generation_VAE/
 │── Digit_Generation_VAE.ipynb   # Main Jupyter Notebook
 │── requirements.txt             # Project dependencies
 │── README.md                    # Project documentation
+---
 
 # 📊 Results
 The trained VAE learns a smooth latent space where nearby points generate similar digits.
