@@ -22,7 +22,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/keshav-077/Digit-Generation-Using-VAE
-cd Digit_Generati
+cd Digit_Generation_VAE.ipynb
 pip install -r requirements.txt
 
 # 📂 Project Structure
