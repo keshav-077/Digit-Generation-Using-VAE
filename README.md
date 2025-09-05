@@ -43,7 +43,7 @@ By sampling from the latent space, the model generates new handwritten digits.
 
 Example of generated digits:
 
-<img src="images/ChatGPT Image Aug 13, 2025, 05_47_58 AM.png" alt="Process Flow" width="600">
+<img src="assests/Screenshot 2025-09-05 171853.png" alt="Process Flow" width="600">
 
 # 📝 Future Improvements
 - Train with higher latent dimensions for richer representations.
