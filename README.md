@@ -28,19 +28,21 @@ pip install -r requirements.txt
 
 
 # 📂 Project Structure
-
----
+```
 Digit_Generation_VAE/
 │── Digit_Generation_VAE.ipynb   # Main Jupyter Notebook
 │── requirements.txt             # Project dependencies
 │── README.md                    # Project documentation
----
+```
+
 
 # 📊 Results
 The trained VAE learns a smooth latent space where nearby points generate similar digits.
 By sampling from the latent space, the model generates new handwritten digits.
 
 Example of generated digits:
+
+<img src="images/ChatGPT Image Aug 13, 2025, 05_47_58 AM.png" alt="Process Flow" width="600">
 
 # 📝 Future Improvements
 - Train with higher latent dimensions for richer representations.
