@@ -21,7 +21,7 @@ A VAE is a type of generative model that learns compressed latent representation
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/Digit_Generation_VAE.git
+git clone [https://(https://github.com/keshav-077/Digit-Generation-Using-VAE/blob/main/README.md)
 cd Digit_Generation_VAE
 pip install -r requirements.txt
 
