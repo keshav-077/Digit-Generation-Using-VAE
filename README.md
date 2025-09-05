@@ -30,3 +30,25 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/Digit_Generation_VAE.git
 cd Digit_Generation_VAE
 pip install -r requirements.txt
+
+## 📂 Project Structure
+Digit_Generation_VAE/
+│── Digit_Generation_VAE.ipynb   # Main Jupyter Notebook
+│── requirements.txt             # Project dependencies
+│── README.md                    # Project documentation
+
+📊 Results
+
+The trained VAE learns a smooth latent space where nearby points generate similar digits.
+
+By sampling from the latent space, the model generates new handwritten digits.
+
+Example of generated digits:
+
+📝 Future Improvements
+
+Train with higher latent dimensions for richer representations.
+
+Apply to more complex datasets (e.g., Fashion-MNIST, CIFAR-10).
+
+Extend the model with Conditional VAEs (CVAE).
