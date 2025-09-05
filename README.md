@@ -31,6 +31,7 @@ git clone https://github.com/your-username/Digit_Generation_VAE.git
 cd Digit_Generation_VAE
 pip install -r requirements.txt
 
+
 ## 📂 Project Structure
 Digit_Generation_VAE/
 │── Digit_Generation_VAE.ipynb   # Main Jupyter Notebook
